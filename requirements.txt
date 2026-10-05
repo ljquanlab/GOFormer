@@ -1,0 +1,10 @@
+numpy==1.26.4
+pandas==2.3.3
+datasets==4.5.0
+dgl==2.4.0+cu118
+fair_esm==2.0.0
+peft==0.17.1
+scipy ==1.13.1
+sentence_transformers==5.1.2
+torch==2.4.0+cu118
+tqdm==4.67.1
