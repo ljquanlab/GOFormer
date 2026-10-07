@@ -61,7 +61,7 @@ Here, `{split}` is `train`, `valid`, or `test`, and `{task}` is `bp`, `cc`, or `
 
 Update data paths, label counts, and training settings in [`script/config.py`](script/config.py). Set `DEVICE` to an available device, such as `cuda:0` (the default is `cuda:1`).
 
-If you would like to use our data, please download it [here](https://pan.baidu.com/s/1vKpyuVgFOZvscBC3NyLQtg?pwd=ttrr).
+If you would like to use our data, please download it [here](https://drive.google.com/file/d/1rH4oZODuC77ABOZbueVxbwv8rH9h71cr/view?usp=drive_link).
 
 #### Train/test
 
