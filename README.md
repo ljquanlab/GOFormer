@@ -1,4 +1,4 @@
-# GOFormer: hierarchy-aware multimodal learning for generalizable protein function annotation
+# GOFormer: generalizable protein function annotation via protein-conditioned querying of a hierarchy-aware gene ontology
 
 ## Introduction
 
